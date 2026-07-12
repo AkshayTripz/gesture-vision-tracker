@@ -1,4 +1,4 @@
-4444444454# Gesture Vision Tracker
+# Gesture Vision Tracker
 
 Real-time hand and face tracking built on MediaPipe and OpenCV, with:
 
