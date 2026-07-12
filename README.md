@@ -16,6 +16,7 @@ Real-time hand and face tracking built on MediaPipe and OpenCV, with:
 - **Python 3.10 or 3.11** (MediaPipe does not yet support 3.13/3.14 reliably — this project pins `mediapipe==0.10.9`, which is the last version with a fully stable `mp.solutions` API)
 - A webcam
 - Windows, macOS, or Linux (tested primarily on Windows)
+
 ## Setup
 
 ### Windows (automated)
